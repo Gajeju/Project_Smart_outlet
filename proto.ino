@@ -25,8 +25,8 @@ Grove_LED_Bar bar3(9, 10, 0);
 /*
   WIFI Shield
 */
-#define WIFI_SSID   "AndroidHotspot6899"                       //와이파이 SSID
-#define WIFI_PASS   "00000000"                                 //와이파이 비밀번호
+#define WIFI_SSID   ""                       //와이파이 SSID
+#define WIFI_PASS   ""                                 //와이파이 비밀번호
 
 
 /*
@@ -34,9 +34,9 @@ Grove_LED_Bar bar3(9, 10, 0);
 */
 IoTMakers g_im;
 
-#define deviceID    "qwert6D1572675402636"            //디바이스 아이디
-#define authnRqtNo  "73y0ayefb"            //디바이스 패스워드
-#define extrSysID   "OPEN_TCP_001PTL001_1000007985"   //게이트웨이 연결 ID
+#define deviceID    ""            //디바이스 아이디
+#define authnRqtNo  ""            //디바이스 패스워드
+#define extrSysID   ""   //게이트웨이 연결 ID
 
 
 //IoT Makers 접속을 초기화 하는 함수
